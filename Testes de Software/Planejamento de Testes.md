@@ -12,17 +12,10 @@ O planejamento de testes tem alguns objetivos principais (PRESSMAN,
 
 * identificar quais funcionalidades e componentes do software deverão  
 ser testados em cada momento;  
-* apontar os recursos necessários para que os testes sejam executados  
-de maneira adequada, o que envolve recursos humanos, tecnológicos  
-e inclusive de ambiente;  
-*  recomendar e descrever as técnicas e estratégias que serão utilizadas  
-ao longo da realização das atividades de teste;  
-* descrever a maneira como os testes serão realizados, para que os tes-  
-tadores possam seguir esse procedimento;  
-* indicar o tipo de relatório que o ciclo de testes deverá produzir e o que  
-ele deve conter, como as atividades de teste realizadas, a data, a hora  
-de início e fim do teste, o nome do testador responsável, os resultados  
-obtidos e os problemas identificados.
+* apontar os recursos necessários para que os testes sejam executados de maneira adequada, o que envolve recursos humanos, tecnológicos e inclusive de ambiente;  
+*  recomendar e descrever as técnicas e estratégias que serão utilizadas ao longo da realização das atividades de teste;  
+* descrever a maneira como os testes serão realizados, para que os testadores possam seguir esse procedimento;  
+* indicar o tipo de relatório que o ciclo de testes deverá produzir e o que ele deve conter, como as atividades de teste realizadas, a data, a hora de início e fim do teste, o nome do testador responsável, os resultados obtidos e os problemas identificados.
 
 ---
 

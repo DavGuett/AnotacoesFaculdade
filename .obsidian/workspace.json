@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planejamento de Testes.md",
+                "file": "Testes de Software/Gerais.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planejamento de Testes.md",
+                "file": "Testes de Software/Gerais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planejamento de Testes.md",
+                "file": "Testes de Software/Gerais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planejamento de Testes.md"
+                "file": "Testes de Software/Gerais.md"
               }
             }
           }
@@ -157,6 +157,9 @@
   },
   "active": "e6b1215ae4367f06",
   "lastOpenFiles": [
+    "Testes de Software/Planejamento de Testes.md",
+    "Testes de Software/Gerais.md",
+    "Testes de Software/Casos de Teste.md",
     "Planejamento de Testes.md"
   ]
 }
